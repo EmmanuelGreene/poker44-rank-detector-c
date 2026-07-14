@@ -22,3 +22,7 @@ wandb/
 .venv/
 __pycache__/
 *.pyc
+
+# Private runtime manifests may disclose artifact hashes
+model_manifest.json
+model/artifacts/model_manifest.json
