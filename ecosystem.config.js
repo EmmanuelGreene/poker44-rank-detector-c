@@ -8,7 +8,6 @@ module.exports = {
       VIRTUAL_ENV: '/opt/poker44-model-miner-3/.venv',
       PYTHONPATH: '/opt/poker44-model-miner-3:/opt/poker44-model-miner-3/src',
       POKER44_MODEL_REPO_URL: 'https://github.com/EmmanuelGreene/poker44-rank-detector-c',
-      POKER44_MODEL_REPO_COMMIT: '3e600a3beb1dc35ba28ad9e3bd39fdb39a224019',
       LOGGING_DEBUG: 'false'
     },
     autorestart: true,
